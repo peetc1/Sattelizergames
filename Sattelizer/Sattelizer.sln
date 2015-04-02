@@ -1,11 +1,15 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
-VisualStudioVersion = 12.0.30501.0
+VisualStudioVersion = 12.0.31101.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sattelizer", "Sattelizer\Sattelizer.csproj", "{D3097759-7F05-454F-AD2C-16648576DA5A}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sattelizer.Tests", "Sattelizer.Tests\Sattelizer.Tests.csproj", "{AB38EC7C-85C6-48D0-B4FF-FCD2FB1E6FEA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sattelizer.Data", "Sattelizer.Data\Sattelizer.Data.csproj", "{830BFA6A-5954-4DF9-89E6-A70C59E86F24}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sattelizer.Business", "Sattelizer.Business\Sattelizer.Business.csproj", "{7F66171F-C506-42A3-9DFA-383CECF27E02}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +25,14 @@ Global
 		{AB38EC7C-85C6-48D0-B4FF-FCD2FB1E6FEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AB38EC7C-85C6-48D0-B4FF-FCD2FB1E6FEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AB38EC7C-85C6-48D0-B4FF-FCD2FB1E6FEA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{830BFA6A-5954-4DF9-89E6-A70C59E86F24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{830BFA6A-5954-4DF9-89E6-A70C59E86F24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{830BFA6A-5954-4DF9-89E6-A70C59E86F24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{830BFA6A-5954-4DF9-89E6-A70C59E86F24}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7F66171F-C506-42A3-9DFA-383CECF27E02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F66171F-C506-42A3-9DFA-383CECF27E02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F66171F-C506-42A3-9DFA-383CECF27E02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F66171F-C506-42A3-9DFA-383CECF27E02}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
