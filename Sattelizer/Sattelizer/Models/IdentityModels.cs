@@ -20,7 +20,7 @@ namespace Sattelizer.Models
     public class ApplicationDbContext : IdentityDbContext<ApplicationUser>
     {
         public ApplicationDbContext()
-            : base("DefaultConnection", throwIfV1Schema: false)
+            : base("SattelizerModel", throwIfV1Schema: false)
         {
         }
 
