@@ -28,6 +28,7 @@ public static partial class MVC
 {
     public static Sattelizer.Controllers.AccountController Account = new Sattelizer.Controllers.T4MVC_AccountController();
     public static Sattelizer.Controllers.HomeController Home = new Sattelizer.Controllers.T4MVC_HomeController();
+    public static T4MVC.ForumController Forum = new T4MVC.ForumController();
     public static T4MVC.SharedController Shared = new T4MVC.SharedController();
 }
 
