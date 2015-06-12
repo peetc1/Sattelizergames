@@ -3,14 +3,28 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Web;
 using System.Web.Mvc;
+using Sattelizer.Business;
+using Sattelizer.Business.Twitter;
+using Sattelizer.Models;
 
 namespace Sattelizer.Controllers
 {
     public partial class HomeController : Controller
     {
+
+
         public virtual ActionResult Index()
         {
-            return View();
+            // testing twitter call
+            var twitter = new TwitterUtility();
+
+            var tweets = twitter.GetTweets();
+            var model = new HomeModel
+            {
+                TweetInfo = tweets
+            };
+
+            return View(model);
         }
 
         public virtual ActionResult About()

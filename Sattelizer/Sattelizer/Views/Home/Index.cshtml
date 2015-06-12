@@ -1,4 +1,6 @@
-﻿@{
+﻿@model Sattelizer.Models.HomeModel
+
+@{
     ViewBag.Title = "Home Page";
 }
 
@@ -10,12 +12,13 @@
 
 <div class="row">
     <div class="col-md-4">
-        <h2>Getting started</h2>
-        <p>
-            ASP.NET MVC gives you a powerful, patterns-based way to build dynamic websites that
-            enables a clean separation of concerns and gives you full control over markup
-            for enjoyable, agile development.
-        </p>
+        <h2>Twitter feed</h2>
+        <ul>
+            @foreach (var tweet in Model.TweetInfo.Tweets)
+            {
+                <li><a href="@String.Format("http://twitter.com/{0}", @Model.TweetInfo.User.ScreenName)"><img src="@Model.TweetInfo.User.ProfileImageUrl" class="thumb-nail" /></a> @tweet.Text</li>
+            }
+        </ul>
         <p><a class="btn btn-default" href="http://go.microsoft.com/fwlink/?LinkId=301865">Learn more &raquo;</a></p>
     </div>
     <div class="col-md-4">

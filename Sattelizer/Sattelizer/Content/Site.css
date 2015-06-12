@@ -15,3 +15,8 @@ select,
 textarea {
     max-width: 280px;
 }
+
+img.thumb-nail {
+    height: 32px;
+    width: 32px;
+}
