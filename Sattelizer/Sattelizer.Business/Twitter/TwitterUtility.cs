@@ -1,8 +1,7 @@
 ﻿using System.Configuration;
-using Sattelizer.Business.Twitter;
 using TweetSharp;
 
-namespace Sattelizer.Business
+namespace Sattelizer.Business.Twitter
 {
     public class TwitterUtility
     {

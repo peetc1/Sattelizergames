@@ -1,23 +1,24 @@
-﻿@using Sattelizer.Extensions
-@model Sattelizer.Models.HomeModel
-
+﻿@using System.Text
+@using System.Text.RegularExpressions
+@using MVCForum.Website.Application
 @{
-    ViewBag.Title = "Home Page";
+    Layout = "~/Views/Shared/_LayoutRightSideBar.cshtml";
+    ViewBag.Title = Html.Settings().PageTitle ?? Html.Settings().ForumName;
+    ViewBag.MetaDesc = Html.Settings().MetaDesc;
 }
 
-<div class="row pad-top">
-    <div class="col-md-3">
-        <a class="twitter-timeline" href="https://twitter.com/SattelizerGames" data-widget-id="609528063982878720">Tweets by @@SattelizerGames</a>
-        <script>!function (d, s, id) { var js, fjs = d.getElementsByTagName(s)[0], p = /^http:/.test(d.location) ? 'http' : 'https'; if (!d.getElementById(id)) { js = d.createElement(s); js.id = id; js.src = p + "://platform.twitter.com/widgets.js"; fjs.parentNode.insertBefore(js, fjs); } }(document, "script", "twitter-wjs");</script>
-    </div>
-    <div class="col-md-6">
-        <h2>Get more libraries</h2>
-        <p>NuGet is a free Visual Studio extension that makes it easy to add, remove, and update libraries and tools in Visual Studio projects.</p>
-        <p><a class="btn btn-default" href="http://go.microsoft.com/fwlink/?LinkId=301866">Learn more &raquo;</a></p>
-    </div>
-    <div class="col-md-3">
-        <h2>Web Hosting</h2>
-        <p>You can easily find a web hosting company that offers the right mix of features and price for your applications.</p>
-        <p><a class="btn btn-default" href="http://go.microsoft.com/fwlink/?LinkId=301867">Learn more &raquo;</a></p>
-    </div>
-</div>
+@section side
+{
+    @Html.Partial("_CommonSideNav")
+}
+
+@Html.Partial("_TwitterFeed")
+
+@Html.Action("LatestTopics", "Topic")
+
+@*
+    If you want to show categories on the home page instead of topics
+    Just uncomment this action out and delete this text (And comment out the above action)
+    @Html.Action("ListMainCategories", "Category")
+*@
+
