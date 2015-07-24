@@ -1,12 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Configuration;
-using System.Linq;
-using System.Net.Http;
-using System.Net.Http.Headers;
-using System.Text;
-using System.Net.Http.Formatting;
-using System.Threading.Tasks;
+﻿using System.Configuration;
 using Sattelizer.Business.Twitter;
 using TweetSharp;
 
@@ -65,12 +57,11 @@ namespace Sattelizer.Business
             // make call
             var tweets = _service.ListTweetsOnUserTimeline(options);
 
+
             var info = new TwitterTweetInfo();
 
             info.Tweets = tweets;
             info.User = _service.GetUserProfileFor(new GetUserProfileForOptions { ScreenName = Satt });
-
-            //info.User.ProfileImageUrl
 
             return info;
         }
