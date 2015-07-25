@@ -12,9 +12,19 @@
     @Html.Partial("_CommonSideNav")
 }
 
-@Html.Partial("_TwitterFeed")
+<div class="row">
+    <div class="col-md-3">
+        @Html.Partial("_TwitterFeed")
+    </div>
+        <div class="col-md-9">
+        @Html.Action("LatestTopics", "Topic")
+    </div>
+    
+</div>
 
-@Html.Action("LatestTopics", "Topic")
+
+
+
 
 @*
     If you want to show categories on the home page instead of topics
