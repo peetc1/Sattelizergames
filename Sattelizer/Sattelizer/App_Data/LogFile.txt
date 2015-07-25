@@ -225,3 +225,184 @@
 24/07/2015 03:55:29 | MVCForum.Services.dll | ProcessMail | There are no SMTP details in the settings, unable to send emails
 24/07/2015 03:55:44 | MVCForum.Services.dll | ProcessMail | There are no SMTP details in the settings, unable to send emails
 24/07/2015 03:55:59 | MVCForum.Services.dll | ProcessMail | There are no SMTP details in the settings, unable to send emails
+25/07/2015 01:09:19 | MVCForum.Website.dll | Application_Start | START APP
+25/07/2015 01:09:21 | MVCForum.Services.dll | ProcessMail | There are no SMTP details in the settings, unable to send emails
+25/07/2015 01:09:34 | MVCForum.Services.dll | ProcessMail | There are no SMTP details in the settings, unable to send emails
+25/07/2015 01:09:49 | MVCForum.Services.dll | ProcessMail | There are no SMTP details in the settings, unable to send emails
+25/07/2015 01:10:04 | MVCForum.Services.dll | ProcessMail | There are no SMTP details in the settings, unable to send emails
+25/07/2015 01:10:19 | MVCForum.Services.dll | ProcessMail | There are no SMTP details in the settings, unable to send emails
+25/07/2015 01:10:34 | MVCForum.Services.dll | ProcessMail | There are no SMTP details in the settings, unable to send emails
+25/07/2015 01:10:49 | MVCForum.Services.dll | ProcessMail | There are no SMTP details in the settings, unable to send emails
+25/07/2015 01:11:04 | MVCForum.Services.dll | ProcessMail | There are no SMTP details in the settings, unable to send emails
+25/07/2015 01:11:19 | MVCForum.Services.dll | ProcessMail | There are no SMTP details in the settings, unable to send emails
+25/07/2015 01:11:34 | MVCForum.Services.dll | ProcessMail | There are no SMTP details in the settings, unable to send emails
+25/07/2015 01:11:49 | MVCForum.Services.dll | ProcessMail | There are no SMTP details in the settings, unable to send emails
+25/07/2015 01:12:04 | MVCForum.Services.dll | ProcessMail | There are no SMTP details in the settings, unable to send emails
+25/07/2015 01:12:19 | MVCForum.Services.dll | ProcessMail | There are no SMTP details in the settings, unable to send emails
+25/07/2015 01:12:34 | MVCForum.Services.dll | ProcessMail | There are no SMTP details in the settings, unable to send emails
+25/07/2015 01:12:49 | MVCForum.Services.dll | ProcessMail | There are no SMTP details in the settings, unable to send emails
+25/07/2015 01:13:04 | MVCForum.Services.dll | ProcessMail | There are no SMTP details in the settings, unable to send emails
+25/07/2015 01:13:19 | MVCForum.Services.dll | ProcessMail | There are no SMTP details in the settings, unable to send emails
+25/07/2015 01:13:34 | MVCForum.Services.dll | ProcessMail | There are no SMTP details in the settings, unable to send emails
+25/07/2015 01:13:49 | MVCForum.Services.dll | ProcessMail | There are no SMTP details in the settings, unable to send emails
+25/07/2015 01:14:04 | MVCForum.Services.dll | ProcessMail | There are no SMTP details in the settings, unable to send emails
+25/07/2015 01:14:19 | MVCForum.Services.dll | ProcessMail | There are no SMTP details in the settings, unable to send emails
+25/07/2015 01:14:34 | MVCForum.Services.dll | ProcessMail | There are no SMTP details in the settings, unable to send emails
+25/07/2015 01:14:49 | MVCForum.Services.dll | ProcessMail | There are no SMTP details in the settings, unable to send emails
+25/07/2015 01:15:04 | MVCForum.Services.dll | ProcessMail | There are no SMTP details in the settings, unable to send emails
+25/07/2015 01:15:19 | MVCForum.Services.dll | ProcessMail | There are no SMTP details in the settings, unable to send emails
+25/07/2015 01:15:34 | MVCForum.Services.dll | ProcessMail | There are no SMTP details in the settings, unable to send emails
+25/07/2015 01:15:49 | MVCForum.Services.dll | ProcessMail | There are no SMTP details in the settings, unable to send emails
+25/07/2015 01:16:04 | MVCForum.Services.dll | ProcessMail | There are no SMTP details in the settings, unable to send emails
+25/07/2015 01:16:19 | MVCForum.Services.dll | ProcessMail | There are no SMTP details in the settings, unable to send emails
+25/07/2015 01:16:34 | MVCForum.Services.dll | ProcessMail | There are no SMTP details in the settings, unable to send emails
+25/07/2015 01:16:49 | MVCForum.Services.dll | ProcessMail | There are no SMTP details in the settings, unable to send emails
+25/07/2015 01:17:04 | MVCForum.Services.dll | ProcessMail | There are no SMTP details in the settings, unable to send emails
+25/07/2015 01:17:19 | MVCForum.Services.dll | ProcessMail | There are no SMTP details in the settings, unable to send emails
+25/07/2015 01:17:34 | MVCForum.Services.dll | ProcessMail | There are no SMTP details in the settings, unable to send emails
+25/07/2015 01:17:49 | MVCForum.Services.dll | ProcessMail | There are no SMTP details in the settings, unable to send emails
+25/07/2015 01:18:04 | MVCForum.Services.dll | ProcessMail | There are no SMTP details in the settings, unable to send emails
+25/07/2015 01:18:19 | MVCForum.Services.dll | ProcessMail | There are no SMTP details in the settings, unable to send emails
+25/07/2015 01:18:34 | MVCForum.Services.dll | ProcessMail | There are no SMTP details in the settings, unable to send emails
+25/07/2015 01:18:49 | MVCForum.Services.dll | ProcessMail | There are no SMTP details in the settings, unable to send emails
+25/07/2015 01:19:04 | MVCForum.Services.dll | ProcessMail | There are no SMTP details in the settings, unable to send emails
+25/07/2015 01:19:19 | MVCForum.Services.dll | ProcessMail | There are no SMTP details in the settings, unable to send emails
+25/07/2015 01:19:34 | MVCForum.Services.dll | ProcessMail | There are no SMTP details in the settings, unable to send emails
+25/07/2015 01:19:49 | MVCForum.Services.dll | ProcessMail | There are no SMTP details in the settings, unable to send emails
+25/07/2015 01:20:04 | MVCForum.Services.dll | ProcessMail | There are no SMTP details in the settings, unable to send emails
+25/07/2015 01:20:19 | MVCForum.Services.dll | ProcessMail | There are no SMTP details in the settings, unable to send emails
+25/07/2015 01:20:34 | MVCForum.Services.dll | ProcessMail | There are no SMTP details in the settings, unable to send emails
+25/07/2015 01:20:49 | MVCForum.Services.dll | ProcessMail | There are no SMTP details in the settings, unable to send emails
+25/07/2015 01:21:04 | MVCForum.Services.dll | ProcessMail | There are no SMTP details in the settings, unable to send emails
+25/07/2015 01:21:19 | MVCForum.Services.dll | ProcessMail | There are no SMTP details in the settings, unable to send emails
+25/07/2015 01:21:34 | MVCForum.Services.dll | ProcessMail | There are no SMTP details in the settings, unable to send emails
+25/07/2015 01:21:49 | MVCForum.Services.dll | ProcessMail | There are no SMTP details in the settings, unable to send emails
+25/07/2015 01:22:04 | MVCForum.Services.dll | ProcessMail | There are no SMTP details in the settings, unable to send emails
+25/07/2015 01:22:19 | MVCForum.Services.dll | ProcessMail | There are no SMTP details in the settings, unable to send emails
+25/07/2015 01:22:34 | MVCForum.Services.dll | ProcessMail | There are no SMTP details in the settings, unable to send emails
+25/07/2015 01:22:49 | MVCForum.Services.dll | ProcessMail | There are no SMTP details in the settings, unable to send emails
+25/07/2015 01:23:04 | MVCForum.Services.dll | ProcessMail | There are no SMTP details in the settings, unable to send emails
+25/07/2015 01:23:19 | MVCForum.Services.dll | ProcessMail | There are no SMTP details in the settings, unable to send emails
+25/07/2015 01:23:34 | MVCForum.Services.dll | ProcessMail | There are no SMTP details in the settings, unable to send emails
+25/07/2015 01:23:49 | MVCForum.Services.dll | ProcessMail | There are no SMTP details in the settings, unable to send emails
+25/07/2015 01:23:49 | MVCForum.Services.dll | GetResourceString | Unable to retrieve resource key 'Category Image' for language id 5663afb4-966a-47df-879a-a4df002eee5f.
+25/07/2015 01:24:04 | MVCForum.Services.dll | GetResourceString | Unable to retrieve resource key 'Category Image' for language id 5663afb4-966a-47df-879a-a4df002eee5f.
+25/07/2015 01:24:04 | MVCForum.Services.dll | ProcessMail | There are no SMTP details in the settings, unable to send emails
+25/07/2015 01:24:06 | MVCForum.Services.dll | GetResourceString | Unable to retrieve resource key 'Category Image' for language id 5663afb4-966a-47df-879a-a4df002eee5f.
+25/07/2015 01:24:19 | MVCForum.Services.dll | GetResourceString | Unable to retrieve resource key 'Category Image' for language id 5663afb4-966a-47df-879a-a4df002eee5f.
+25/07/2015 01:24:19 | MVCForum.Services.dll | ProcessMail | There are no SMTP details in the settings, unable to send emails
+25/07/2015 01:24:23 | MVCForum.Services.dll | GetResourceString | Unable to retrieve resource key 'Category Image' for language id 5663afb4-966a-47df-879a-a4df002eee5f.
+25/07/2015 01:24:26 | MVCForum.Services.dll | GetResourceString | Unable to retrieve resource key 'Category Image' for language id 5663afb4-966a-47df-879a-a4df002eee5f.
+25/07/2015 01:24:34 | MVCForum.Services.dll | ProcessMail | There are no SMTP details in the settings, unable to send emails
+25/07/2015 01:24:49 | MVCForum.Services.dll | ProcessMail | There are no SMTP details in the settings, unable to send emails
+25/07/2015 01:24:52 | MVCForum.Services.dll | GetResourceString | Unable to retrieve resource key 'Category Image' for language id 5663afb4-966a-47df-879a-a4df002eee5f.
+25/07/2015 01:25:04 | MVCForum.Services.dll | ProcessMail | There are no SMTP details in the settings, unable to send emails
+25/07/2015 01:25:11 | MVCForum.Services.dll | GetResourceString | Unable to retrieve resource key 'Category Image' for language id 5663afb4-966a-47df-879a-a4df002eee5f.
+25/07/2015 01:25:19 | MVCForum.Services.dll | ProcessMail | There are no SMTP details in the settings, unable to send emails
+25/07/2015 01:25:27 | MVCForum.Services.dll | GetResourceString | Unable to retrieve resource key 'Category Image' for language id 5663afb4-966a-47df-879a-a4df002eee5f.
+25/07/2015 01:25:32 | MVCForum.Services.dll | GetResourceString | Unable to retrieve resource key 'Category Image' for language id 5663afb4-966a-47df-879a-a4df002eee5f.
+25/07/2015 01:25:34 | MVCForum.Services.dll | ProcessMail | There are no SMTP details in the settings, unable to send emails
+25/07/2015 01:25:49 | MVCForum.Services.dll | ProcessMail | There are no SMTP details in the settings, unable to send emails
+25/07/2015 01:26:04 | MVCForum.Services.dll | ProcessMail | There are no SMTP details in the settings, unable to send emails
+25/07/2015 01:26:19 | MVCForum.Services.dll | ProcessMail | There are no SMTP details in the settings, unable to send emails
+25/07/2015 01:26:34 | MVCForum.Services.dll | ProcessMail | There are no SMTP details in the settings, unable to send emails
+25/07/2015 01:26:49 | MVCForum.Services.dll | ProcessMail | There are no SMTP details in the settings, unable to send emails
+25/07/2015 01:27:04 | MVCForum.Services.dll | ProcessMail | There are no SMTP details in the settings, unable to send emails
+25/07/2015 01:27:19 | MVCForum.Services.dll | ProcessMail | There are no SMTP details in the settings, unable to send emails
+25/07/2015 01:27:34 | MVCForum.Services.dll | ProcessMail | There are no SMTP details in the settings, unable to send emails
+25/07/2015 01:27:49 | MVCForum.Services.dll | ProcessMail | There are no SMTP details in the settings, unable to send emails
+25/07/2015 01:28:04 | MVCForum.Services.dll | ProcessMail | There are no SMTP details in the settings, unable to send emails
+25/07/2015 01:28:19 | MVCForum.Services.dll | ProcessMail | There are no SMTP details in the settings, unable to send emails
+25/07/2015 01:28:34 | MVCForum.Services.dll | ProcessMail | There are no SMTP details in the settings, unable to send emails
+25/07/2015 01:28:35 | MVCForum.Services.dll | GetResourceString | Unable to retrieve resource key 'Category Image' for language id 5663afb4-966a-47df-879a-a4df002eee5f.
+25/07/2015 01:28:40 | MVCForum.Services.dll | GetResourceString | Unable to retrieve resource key 'Category Image' for language id 5663afb4-966a-47df-879a-a4df002eee5f.
+25/07/2015 01:28:49 | MVCForum.Services.dll | ProcessMail | There are no SMTP details in the settings, unable to send emails
+25/07/2015 01:29:03 | MVCForum.Services.dll | GetResourceString | Unable to retrieve resource key 'Category Image' for language id 5663afb4-966a-47df-879a-a4df002eee5f.
+25/07/2015 01:29:04 | MVCForum.Services.dll | ProcessMail | There are no SMTP details in the settings, unable to send emails
+25/07/2015 01:29:12 | MVCForum.Services.dll | GetResourceString | Unable to retrieve resource key 'Category Image' for language id 5663afb4-966a-47df-879a-a4df002eee5f.
+25/07/2015 01:29:17 | MVCForum.Services.dll | GetResourceString | Unable to retrieve resource key 'Category Image' for language id 5663afb4-966a-47df-879a-a4df002eee5f.
+25/07/2015 01:29:19 | MVCForum.Services.dll | ProcessMail | There are no SMTP details in the settings, unable to send emails
+25/07/2015 01:29:23 | MVCForum.Services.dll | GetResourceString | Unable to retrieve resource key 'Category Image' for language id 5663afb4-966a-47df-879a-a4df002eee5f.
+25/07/2015 01:29:28 | MVCForum.Services.dll | GetResourceString | Unable to retrieve resource key 'Category Image' for language id 5663afb4-966a-47df-879a-a4df002eee5f.
+25/07/2015 01:29:30 | MVCForum.Services.dll | GetResourceString | Unable to retrieve resource key 'Category Image' for language id 5663afb4-966a-47df-879a-a4df002eee5f.
+25/07/2015 01:29:34 | MVCForum.Services.dll | ProcessMail | There are no SMTP details in the settings, unable to send emails
+25/07/2015 01:29:42 | MVCForum.Services.dll | GetResourceString | Unable to retrieve resource key 'Category Image' for language id 5663afb4-966a-47df-879a-a4df002eee5f.
+25/07/2015 01:29:47 | MVCForum.Services.dll | GetResourceString | Unable to retrieve resource key 'Category Image' for language id 5663afb4-966a-47df-879a-a4df002eee5f.
+25/07/2015 01:29:49 | MVCForum.Services.dll | ProcessMail | There are no SMTP details in the settings, unable to send emails
+25/07/2015 01:29:50 | MVCForum.Services.dll | GetResourceString | Unable to retrieve resource key 'Category Image' for language id 5663afb4-966a-47df-879a-a4df002eee5f.
+25/07/2015 01:29:52 | MVCForum.Services.dll | GetResourceString | Unable to retrieve resource key 'Category Image' for language id 5663afb4-966a-47df-879a-a4df002eee5f.
+25/07/2015 01:29:57 | MVCForum.Services.dll | GetResourceString | Unable to retrieve resource key 'Category Image' for language id 5663afb4-966a-47df-879a-a4df002eee5f.
+25/07/2015 01:30:04 | MVCForum.Services.dll | ProcessMail | There are no SMTP details in the settings, unable to send emails
+25/07/2015 01:30:19 | MVCForum.Services.dll | ProcessMail | There are no SMTP details in the settings, unable to send emails
+25/07/2015 01:30:34 | MVCForum.Services.dll | ProcessMail | There are no SMTP details in the settings, unable to send emails
+25/07/2015 01:30:49 | MVCForum.Services.dll | ProcessMail | There are no SMTP details in the settings, unable to send emails
+25/07/2015 01:31:04 | MVCForum.Services.dll | ProcessMail | There are no SMTP details in the settings, unable to send emails
+25/07/2015 01:31:19 | MVCForum.Services.dll | ProcessMail | There are no SMTP details in the settings, unable to send emails
+25/07/2015 01:31:34 | MVCForum.Services.dll | ProcessMail | There are no SMTP details in the settings, unable to send emails
+25/07/2015 01:31:49 | MVCForum.Services.dll | ProcessMail | There are no SMTP details in the settings, unable to send emails
+25/07/2015 01:32:04 | MVCForum.Services.dll | ProcessMail | There are no SMTP details in the settings, unable to send emails
+25/07/2015 01:32:19 | MVCForum.Services.dll | ProcessMail | There are no SMTP details in the settings, unable to send emails
+25/07/2015 01:32:34 | MVCForum.Services.dll | ProcessMail | There are no SMTP details in the settings, unable to send emails
+25/07/2015 01:32:49 | MVCForum.Services.dll | ProcessMail | There are no SMTP details in the settings, unable to send emails
+25/07/2015 01:33:04 | MVCForum.Services.dll | ProcessMail | There are no SMTP details in the settings, unable to send emails
+25/07/2015 01:33:19 | MVCForum.Services.dll | ProcessMail | There are no SMTP details in the settings, unable to send emails
+25/07/2015 01:33:34 | MVCForum.Services.dll | ProcessMail | There are no SMTP details in the settings, unable to send emails
+25/07/2015 01:33:49 | MVCForum.Services.dll | ProcessMail | There are no SMTP details in the settings, unable to send emails
+25/07/2015 01:34:04 | MVCForum.Services.dll | ProcessMail | There are no SMTP details in the settings, unable to send emails
+25/07/2015 01:34:19 | MVCForum.Services.dll | ProcessMail | There are no SMTP details in the settings, unable to send emails
+25/07/2015 01:34:34 | MVCForum.Services.dll | ProcessMail | There are no SMTP details in the settings, unable to send emails
+25/07/2015 01:34:49 | MVCForum.Services.dll | ProcessMail | There are no SMTP details in the settings, unable to send emails
+25/07/2015 01:35:04 | MVCForum.Services.dll | ProcessMail | There are no SMTP details in the settings, unable to send emails
+25/07/2015 01:35:19 | MVCForum.Services.dll | ProcessMail | There are no SMTP details in the settings, unable to send emails
+25/07/2015 01:35:34 | MVCForum.Services.dll | ProcessMail | There are no SMTP details in the settings, unable to send emails
+25/07/2015 01:35:49 | MVCForum.Services.dll | ProcessMail | There are no SMTP details in the settings, unable to send emails
+25/07/2015 01:36:04 | MVCForum.Services.dll | ProcessMail | There are no SMTP details in the settings, unable to send emails
+25/07/2015 01:36:19 | MVCForum.Services.dll | ProcessMail | There are no SMTP details in the settings, unable to send emails
+25/07/2015 01:36:34 | MVCForum.Services.dll | ProcessMail | There are no SMTP details in the settings, unable to send emails
+25/07/2015 01:36:49 | MVCForum.Services.dll | ProcessMail | There are no SMTP details in the settings, unable to send emails
+25/07/2015 01:37:04 | MVCForum.Services.dll | ProcessMail | There are no SMTP details in the settings, unable to send emails
+25/07/2015 01:37:19 | MVCForum.Services.dll | ProcessMail | There are no SMTP details in the settings, unable to send emails
+25/07/2015 01:37:34 | MVCForum.Services.dll | ProcessMail | There are no SMTP details in the settings, unable to send emails
+25/07/2015 01:37:49 | MVCForum.Services.dll | ProcessMail | There are no SMTP details in the settings, unable to send emails
+25/07/2015 01:38:04 | MVCForum.Services.dll | ProcessMail | There are no SMTP details in the settings, unable to send emails
+25/07/2015 01:38:19 | MVCForum.Services.dll | ProcessMail | There are no SMTP details in the settings, unable to send emails
+25/07/2015 01:38:34 | MVCForum.Services.dll | ProcessMail | There are no SMTP details in the settings, unable to send emails
+25/07/2015 01:38:49 | MVCForum.Services.dll | ProcessMail | There are no SMTP details in the settings, unable to send emails
+25/07/2015 01:39:04 | MVCForum.Services.dll | ProcessMail | There are no SMTP details in the settings, unable to send emails
+25/07/2015 01:39:19 | MVCForum.Services.dll | ProcessMail | There are no SMTP details in the settings, unable to send emails
+25/07/2015 01:39:34 | MVCForum.Services.dll | ProcessMail | There are no SMTP details in the settings, unable to send emails
+25/07/2015 01:39:49 | MVCForum.Services.dll | ProcessMail | There are no SMTP details in the settings, unable to send emails
+25/07/2015 01:40:04 | MVCForum.Services.dll | ProcessMail | There are no SMTP details in the settings, unable to send emails
+25/07/2015 01:40:19 | MVCForum.Services.dll | ProcessMail | There are no SMTP details in the settings, unable to send emails
+25/07/2015 01:40:34 | MVCForum.Services.dll | ProcessMail | There are no SMTP details in the settings, unable to send emails
+25/07/2015 01:40:49 | MVCForum.Services.dll | ProcessMail | There are no SMTP details in the settings, unable to send emails
+25/07/2015 01:41:04 | MVCForum.Services.dll | ProcessMail | There are no SMTP details in the settings, unable to send emails
+25/07/2015 01:41:19 | MVCForum.Services.dll | ProcessMail | There are no SMTP details in the settings, unable to send emails
+25/07/2015 01:41:34 | MVCForum.Services.dll | ProcessMail | There are no SMTP details in the settings, unable to send emails
+25/07/2015 01:41:49 | MVCForum.Services.dll | ProcessMail | There are no SMTP details in the settings, unable to send emails
+25/07/2015 01:42:04 | MVCForum.Services.dll | ProcessMail | There are no SMTP details in the settings, unable to send emails
+25/07/2015 01:42:19 | MVCForum.Services.dll | ProcessMail | There are no SMTP details in the settings, unable to send emails
+25/07/2015 01:42:34 | MVCForum.Services.dll | ProcessMail | There are no SMTP details in the settings, unable to send emails
+25/07/2015 01:42:49 | MVCForum.Services.dll | ProcessMail | There are no SMTP details in the settings, unable to send emails
+25/07/2015 01:43:04 | MVCForum.Services.dll | ProcessMail | There are no SMTP details in the settings, unable to send emails
+25/07/2015 01:43:19 | MVCForum.Services.dll | ProcessMail | There are no SMTP details in the settings, unable to send emails
+25/07/2015 01:43:34 | MVCForum.Services.dll | ProcessMail | There are no SMTP details in the settings, unable to send emails
+25/07/2015 01:43:49 | MVCForum.Services.dll | ProcessMail | There are no SMTP details in the settings, unable to send emails
+25/07/2015 01:44:04 | MVCForum.Services.dll | ProcessMail | There are no SMTP details in the settings, unable to send emails
+25/07/2015 01:44:19 | MVCForum.Services.dll | ProcessMail | There are no SMTP details in the settings, unable to send emails
+25/07/2015 01:44:34 | MVCForum.Services.dll | ProcessMail | There are no SMTP details in the settings, unable to send emails
+25/07/2015 01:44:49 | MVCForum.Services.dll | ProcessMail | There are no SMTP details in the settings, unable to send emails
+25/07/2015 01:45:04 | MVCForum.Services.dll | ProcessMail | There are no SMTP details in the settings, unable to send emails
+25/07/2015 01:45:19 | MVCForum.Services.dll | ProcessMail | There are no SMTP details in the settings, unable to send emails
+25/07/2015 01:45:34 | MVCForum.Services.dll | ProcessMail | There are no SMTP details in the settings, unable to send emails
+25/07/2015 01:45:49 | MVCForum.Services.dll | ProcessMail | There are no SMTP details in the settings, unable to send emails
+25/07/2015 01:46:04 | MVCForum.Services.dll | ProcessMail | There are no SMTP details in the settings, unable to send emails
+25/07/2015 01:46:19 | MVCForum.Services.dll | ProcessMail | There are no SMTP details in the settings, unable to send emails
+25/07/2015 01:46:34 | MVCForum.Services.dll | ProcessMail | There are no SMTP details in the settings, unable to send emails
+25/07/2015 01:46:49 | MVCForum.Services.dll | ProcessMail | There are no SMTP details in the settings, unable to send emails
+25/07/2015 01:47:04 | MVCForum.Services.dll | ProcessMail | There are no SMTP details in the settings, unable to send emails
+25/07/2015 01:47:19 | MVCForum.Services.dll | ProcessMail | There are no SMTP details in the settings, unable to send emails
+25/07/2015 01:47:34 | MVCForum.Services.dll | ProcessMail | There are no SMTP details in the settings, unable to send emails
+25/07/2015 01:47:49 | MVCForum.Services.dll | ProcessMail | There are no SMTP details in the settings, unable to send emails
+25/07/2015 01:48:04 | MVCForum.Services.dll | ProcessMail | There are no SMTP details in the settings, unable to send emails
+25/07/2015 01:48:19 | MVCForum.Services.dll | ProcessMail | There are no SMTP details in the settings, unable to send emails
